@@ -1,0 +1,172 @@
+---------------------------------------------------------------
+
+Seed: 3837
+
+LC: Water, oil, poison
+- Perks - shield, homing, unlimited spells, explosion immunity
+- Water trail, ice level, near bottom
+- Water trail, 3rd shop
+- Poison arc (always cast), border of jungle and fungal biome
+- Poison arc, top of ice level, to the left
+
+---------------------------------------------------------------
+
+Seed: 5859
+
+LC: Poison, water, toxic sludge
+- Perks - unlimited spells (reroll)
+
+---------------------------------------------------------------
+
+Seed: 22809
+LC: Poison, water, toxic sludge
+- Perks - unlimited spells, electricity immunity, Edit or repulsion
+- Sea of water, 1st shop
+- Rain cloud, shop to right of hiisi base
+
+- Always cast matter eater, 2nd level, left of entrance
+
+---------------------------------------------------------------
+
+Seed: 22810
+LC: Poison, water, toxic sludge
+- Perks - Perk lottery, extra perk
+
+---------------------------------------------------------------
+
+Seed: 22810
+LC: Poison, water, toxic sludge
+- Perks - Shield, perk lottery (no shuffle), repulsion (electricity immunity)
+
+---------------------------------------------------------------
+
+Seed: 24999
+LC: Poison, water, toxic sludge
+- Perks - Perk Lottery (strong levitation, glass cannon)
+- Poison trail (always cast), water to poison, hiisi base, near middle.
+
+---------------------------------------------------------------
+
+Seed: 9364
+LC: water, poison, gunpowder
+- Perks - Repelling cape, explosion immunity
+
+---------------------------------------------------------------
+
+Seed: 9365
+LC: water, poison, gunpowder
+- Perks - Edit
+- Water trail (Nope, RNG)  Carried by shadow in collapsed mines
+- Poison arc, ice level, down and right of entrance
+
+---------------------------------------------------------------
+
+Seed: 9366
+LC: water, poison, gunpowder
+- Perks - Always cast (homing), More Hatred (2 rerolls)
+- Gunpowder arc, coal pit, 5:00 from entrance
+
+---------------------------------------------------------------
+
+Seed: 9367
+LC: water, poison, gunpowder
+- Perks - Always cast (earthquake)
+
+---------------------------------------------------------------
+
+Seed: 11600
+LC: water, poison, gunpowder
+- Perks - Edit, melee immunity, shield (2 rerolls), repulsion
+- Wands - No-shuffle, low recharge early in fungal biome
+
+- Rain cloud (first level)
+- Sea of Water (first shop)
+- Gunpowder arc (third shop)
+- Gunpowder arc (shop on right of hiisi base)
+
+---------------------------------------------------------------
+
+Seed: 11601
+LC: water, poison, gunpowder
+- Perks - Edit
+
+---------------------------------------------------------------
+
+Seed: 11602
+LC: water, poison, gunpowder
+- Perks - Junk for 2 rerolls
+Pheromones, teleport, and ambrosia in first level
+Great DPS wand immediately
+No trails found so far
+
+---------------------------------------------------------------
+
+Seed: 11603
+LC: water, poison, gunpowder
+- Perks - Unlimited, shield, fire immunity, glass cannon, no more shuffle
+- Poison trail (post-jungle shop)
+
+
+---------------------------------------------------------------
+
+Seed: 69963
+LC: water, poison, gunpowder
+- Perks - No shuffle, repulsion
+
+
+
+---------------------------------------------------------------
+
+Seed: 69965
+LC: water, poison, gunpowder
+- Perks - Unlimited (reroll), perk lottery (+ extra perk)
+- Rain cloud (first level)
+
+
+---------------------------------------------------------------
+
+Seed: 83211
+LC: water, poison, gunpowder
+- Perks - repulsion
+
+---------------------------------------------------------------
+
+Seed: 83212
+LC: water, poison, gunpowder
+- Perks - Unlimited
+- Sea of water (first shop)
+
+---------------------------------------------------------------
+
+Seed: 83213
+LC: water, poison, gunpowder
+- Perks - Fire immunity, faster movement
+---------------------------------------------------------------
+
+Seed: 89826
+LC: water, poison, gunpowder
+- Perks - Slime blood, shield, homing (2 rerolls)
+- Gunpowder trail (hiisi base, center-ish)
+- Water to poison (hiisi base left side, hiisi base right side)
+- Poison+gunpowder arc (fungal caverns, near top)
+
+---------------------------------------------------------------
+
+Seed: 9841
+LC: water, poison, acid
+- Perks - Perk lottery, extra perk (2 rerolls), slime blood+no shuffle, shield+reroll+electricity, edit (reroll)
+- Acid trail (always cast, ice level, one screen from left edge)
+- Water trail (jungle, below dragon cave)
+- Water to poison (vault shop)
+- Toxic sludge to acid (vault shop)
+
+---------------------------------------------------------------
+
+Seed: 11846
+LC: water, poison, acid
+- Perks - Edit (2 rerolls), no shuffle, unlimited spells (reroll), perk lottery (more blood, more love), breathless
+- Sea of water (first shop)
+- Acid trail (third shop)
+- Water to poison (hiisi base, along top, to left)
+- Explosion of poison (post-hiisi shop)
+- Water trail (jungle, middle-ish)
